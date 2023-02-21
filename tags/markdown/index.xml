@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown on Prashant First blog</title>
+    <link>https://prashant-142.github.io/prashant/tags/markdown/</link>
+    <description>Recent content in markdown on Prashant First blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://prashant-142.github.io/prashant/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://prashant-142.github.io/prashant/blog/hello_world/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://prashant-142.github.io/prashant/blog/hello_world/</guid>
+      <description>Hello This is my first blog with 191 words. Checking how the third line looks like Create 2 github repos.
+Hugo blog - Where you will be creating your blog Your username - Where you&amp;rsquo;ll be hosting the blog In local create hugo blog, add upstream origin to github Hugo blog repo
+commands hugo new site blog cd blog D:\Projects\hugo&amp;gt;cd blog
+D:\Projects\hugo\blog&amp;gt;git init Initialized empty Git repository in D:/Projects/hugo/blog/.git/ D:\Projects\hugo\blog&amp;gt;git branch -M &amp;lsquo;main&amp;rsquo; D:\Projects\hugo\blog&amp;gt;git remote add origin https://github.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://prashant-142.github.io/prashant/blog/markdown-syntax/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://prashant-142.github.io/prashant/blog/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://prashant-142.github.io/prashant/blog/placeholder-text/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://prashant-142.github.io/prashant/blog/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,10 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://prashant-142.github.io/prashant/categories/</loc>
+    <loc>https://prashant-142.github.io/prashant/tags/about/</loc>
+    <lastmod>2023-02-21T23:03:15+05:30</lastmod>
+  </url><url>
+    <loc>https://prashant-142.github.io/prashant/page/about/</loc>
+    <lastmod>2023-02-21T23:03:15+05:30</lastmod>
+  </url><url>
+    <loc>https://prashant-142.github.io/prashant/tags/me/</loc>
+    <lastmod>2023-02-21T23:03:15+05:30</lastmod>
+  </url><url>
+    <loc>https://prashant-142.github.io/prashant/page/</loc>
+    <lastmod>2023-02-21T23:03:15+05:30</lastmod>
   </url><url>
     <loc>https://prashant-142.github.io/prashant/</loc>
+    <lastmod>2023-02-21T23:03:15+05:30</lastmod>
   </url><url>
     <loc>https://prashant-142.github.io/prashant/tags/</loc>
+    <lastmod>2023-02-21T23:03:15+05:30</lastmod>
+  </url><url>
+    <loc>https://prashant-142.github.io/prashant/blog/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prashant-142.github.io/prashant/tags/emoji/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prashant-142.github.io/prashant/blog/emoji-support/</loc>
+    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prashant-142.github.io/prashant/tags/css/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prashant-142.github.io/prashant/tags/html/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prashant-142.github.io/prashant/tags/markdown/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prashant-142.github.io/prashant/blog/hello_world/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prashant-142.github.io/prashant/blog/markdown-syntax/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prashant-142.github.io/prashant/blog/math-typesetting/</loc>
+    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prashant-142.github.io/prashant/blog/placeholder-text/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prashant-142.github.io/prashant/tags/privacy/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prashant-142.github.io/prashant/blog/rich-content/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prashant-142.github.io/prashant/tags/shortcodes/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prashant-142.github.io/prashant/tags/text/</loc>
+    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prashant-142.github.io/prashant/categories/</loc>
   </url>
 </urlset>
